@@ -1,6 +1,7 @@
 @import url("./build/css/variables.css");
 
 button.primary {
-  background: var(--uxday-color-button-primary-background-default);
-  color: var(--uxday-color-button-primary-foreground-default);
+  background: var(--uxday-core-color-button-primary-background-default);
+  color: var(--uxday-core-color-button-primary-foreground-default);
+  padding: var(--uxday-component-spacing-button-default)px;
 }

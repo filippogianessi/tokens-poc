@@ -2,28 +2,8 @@
 
 <!--
   Do not edit directly
-  Generated on Wed, 05 Jun 2024 17:28:13 GMT
+  Generated on Wed, 05 Jun 2024 21:36:43 GMT
 -->
 <resources>
-  <color name="color_delight_blue_200">#b3dbff</color>
-  <color name="color_delight_blue_300">#80c4ff</color>
-  <color name="color_delight_blue_500">#0088ff</color>
-  <color name="color_delight_blue_600">#0075ea</color>
-  <color name="color_delight_neutral_0">#ffffff</color>
-  <color name="color_delight_neutral_950">#111111</color>
-  <color name="color_legacy_blue_200">#c0e5fc</color>
-  <color name="color_legacy_blue_300">#96d4f8</color>
-  <color name="color_legacy_blue_500">#25a1e4</color>
-  <color name="color_legacy_blue_600">#0589d6</color>
-  <color name="color_legacy_neutral_0">#ffffff</color>
-  <color name="color_legacy_neutral_950">#2f3a42</color>
-  <color name="color_dummy_blue_200">#c0cafc</color>
-  <color name="color_dummy_blue_300">#96b1f8</color>
-  <color name="color_dummy_blue_500">#7278f5</color>
-  <color name="color_dummy_blue_600">#2b48d0</color>
-  <color name="color_functional_brand_primary">#0088ff</color>
-  <color name="color_functional_text_invert">#ffffff</color>
-  <color name="color_button_primary_background_default">#0088ff</color>
-  <color name="color_button_primary_foreground_default">#ffffff</color>
   
 </resources>
