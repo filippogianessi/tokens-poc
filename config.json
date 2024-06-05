@@ -19,6 +19,46 @@
           "format": "javascript/es6"
         }
       ]
+    },
+    "ios": {
+      "transformGroup": "ios",
+      "buildPath": "build/ios/",
+      "files": [
+        {
+          "destination": "StyleDictionaryColor.h",
+          "format": "ios/colors.h"
+        },
+        {
+          "destination": "StyleDictionaryColor.m",
+          "format": "ios/colors.m"
+        },
+        {
+          "destination": "StyleDictionarySize.h",
+          "format": "ios/static.h"
+        },
+        {
+          "destination": "StyleDictionarySize.m",
+          "format": "ios/static.m"
+        }
+      ]
+    },
+    "android": {
+      "transformGroup": "android",
+      "buildPath": "build/android/",
+      "files": [
+        {
+          "destination": "colors.xml",
+          "format": "android/colors"
+        },
+        {
+          "destination": "dimens.xml",
+          "format": "android/dimens"
+        },
+        {
+          "destination": "font_dimens.xml",
+          "format": "android/fontDimens"
+        }
+      ]
     }
   }
 }
