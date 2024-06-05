@@ -43,22 +43,12 @@
       ]
     },
     "android": {
-      "transformGroup": "android",
-      "buildPath": "build/android/",
-      "files": [
-        {
-          "destination": "colors.xml",
-          "format": "android/colors"
-        },
-        {
-          "destination": "dimens.xml",
-          "format": "android/dimens"
-        },
-        {
-          "destination": "font_dimens.xml",
-          "format": "android/fontDimens"
-        }
-      ]
+      "transforms": ["attribute/cti", "name/cti/snake", "color/hex", "size/remToSp", "size/remToDp"],
+      "buildPath": "build/android/src/main/res/values/",
+      "files": [{
+        "destination": "style_dictionary_colors.xml",
+        "format": "android/colors"
+      }]
     }
   }
 }
