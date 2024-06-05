@@ -1,3 +1,6 @@
+@import url("./build/css/variables.css");
+
 button.primary {
-  
+  background: var(--uxday-color-button-primary-background-default);
+  color: var(--uxday-color-button-primary-foreground-default);
 }
